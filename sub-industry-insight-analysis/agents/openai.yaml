@@ -1,0 +1,7 @@
+interface:
+  display_name: "细分行业洞察分析"
+  short_description: "将原始行业贷款数据转成可追溯的细分信贷洞察工作簿（本体建模）"
+  default_prompt: "Use $sub-industry-insight-analysis to generate or update a traceable industry-level inclusive-credit insight workbook from the supplied raw data."
+
+policy:
+  allow_implicit_invocation: true
